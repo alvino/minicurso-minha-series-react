@@ -1,0 +1,58 @@
+{
+  "series": [
+    {
+      "id": 3,
+      "name": "Breaking Bad",
+      "status": "watched",
+      "genre": "Drama",
+      "comments": "Say My Name - melhor cena"
+    },
+    {
+      "id": 4,
+      "name": "Better Call Saul",
+      "status": "toWatch",
+      "genre": "Drama",
+      "comments": "Galera fala bem"
+    },
+    {
+      "name": "MInha mae e uma peça",
+      "status": "watched",
+      "genre": "Comédia",
+      "comments": "muito bom",
+      "id": 6
+    },
+    {
+      "name": "Vingadores II",
+      "status": "watched",
+      "genre": "Ação",
+      "comments": "top, massa de+",
+      "id": 7
+    },
+    {
+      "name": "Gardiao da galaxia",
+      "status": "watched",
+      "genre": "Ação",
+      "comments": "muito bom",
+      "id": 8
+    },
+    {
+      "name": "teste",
+      "status": "",
+      "genre": "",
+      "comments": "teste",
+      "id": 9
+    },
+    {
+      "name": "tesete",
+      "status": "watched",
+      "genre": "Comédia",
+      "comments": "stasfasdfasdfasdfasf",
+      "id": 10
+    }
+  ],
+  "genres": [
+    "Comédia",
+    "Drama",
+    "Ação"
+  ]
+}
